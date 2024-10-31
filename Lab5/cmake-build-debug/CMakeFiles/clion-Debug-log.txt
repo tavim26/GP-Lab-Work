@@ -1,0 +1,4 @@
+/home/okkuta/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/okkuta/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/okkuta/Desktop/An3/SemI/PG/GP-Lab-Work/Lab5 -B /home/okkuta/Desktop/An3/SemI/PG/GP-Lab-Work/Lab5/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/okkuta/Desktop/An3/SemI/PG/GP-Lab-Work/Lab5/cmake-build-debug
